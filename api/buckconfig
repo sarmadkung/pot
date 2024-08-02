@@ -1,0 +1,4 @@
+[build]
+    rust_version = "1.80.0"
+[targets]
+    //pot::api
